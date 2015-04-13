@@ -6,6 +6,7 @@ public class JavaApplication29 {
         
         int b=5;
         int c=3;
+        int d=2;
     }
     
 }
