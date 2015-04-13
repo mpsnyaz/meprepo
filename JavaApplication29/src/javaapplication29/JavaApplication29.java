@@ -5,6 +5,7 @@ public class JavaApplication29 {
     public static void main(String[] args) {
         
         int b=5;
+        int c=3;
     }
     
 }
