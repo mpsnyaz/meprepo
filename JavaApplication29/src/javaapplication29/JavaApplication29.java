@@ -8,6 +8,7 @@ public class JavaApplication29 {
         int c=3;
         int d=2;
         int e=4;
+        int f=5;
     }
     
 }
